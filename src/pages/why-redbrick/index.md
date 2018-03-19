@@ -1,5 +1,5 @@
 ---
-templateKey: 'why-redbrick'
+templateKey: 'about-page'
 path: /why-redbrick
 title: Why Redbrick
 ---
